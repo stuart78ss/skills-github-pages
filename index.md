@@ -3,6 +3,7 @@ layout: home
 title: ""
 ---
 
+# 🚀 What I Do
 I'm a technical lead working across cloud, automation, and modern workplace technologies. 
 
 I help organisations design and deploy Microsoft cloud technologies that empower people, simplify operations, and scale with their needs.
